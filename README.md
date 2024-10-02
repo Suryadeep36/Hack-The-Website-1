@@ -1,2 +1,2 @@
-#Something hidding in plain site
+# Something hidding in plain site
 Easiest one for sure
